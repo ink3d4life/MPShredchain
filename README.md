@@ -6,5 +6,5 @@ Forge the build-preview locally, verfy assets,loredrops,and goverance files. Sea
 Creddit Atribuation-The builder,creator,designer and owner Mark C Parnell Sr.
 License and leagcy-Shredchain is released under the Mit License. Shredchain is more then code-its a covenant. Founder stamped-every deployment carries the mark of its architect,Community-forged:goverance,staking,and campaings are shaped by riders,builders and dreams.
 Roadmap- Phase one:Presale milestone(Polygon Amoy),Staking,Machenics and community onboarding.,Phase Two: the covenant- Governance campaigns, lore-driven NFT drops,and participatory rewards,Phase Three:The legacy-Crosschain expansion,Defi yield intergration and full mainnet launch.
-Tokenomics
+Tokenomics.
 Whitepaper
